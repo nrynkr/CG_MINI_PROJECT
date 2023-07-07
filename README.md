@@ -1,6 +1,6 @@
-## CG_MINI_PROJECT
+# CG_MINI_PROJECT
 A Computer graphics mini project named Rubik's Cube.
-# COMMANDS
+## COMMANDS
 The commands to interact with the Rubik's Cube are:
 
 L: rotate right
